@@ -1,4 +1,4 @@
-# Updatemi Chatbot
+# Updatemi Chatbot Prototype
 
 ## Overview
 A simple starting point for creating a [Beep Boop](https://beepboophq.com/) hostable, Node.js based Slack bot with [botkit](https://github.com/howdyai/botkit)
